@@ -14,7 +14,9 @@ header {
   padding: 1rem 0;
   border-bottom: 2px solid black;
 }
-
+.header-right{
+  max-width: 40%;
+}
 .contact-info {
   font-size: 15px;
 }
@@ -41,6 +43,7 @@ header {
 .header-left {
   display: flex;
   flex-direction: column;
+  max-width: 40%;
 }
 
 .logo-links a {
@@ -65,7 +68,7 @@ header {
 .body{
   padding: 1rem 0;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: space-between;
   width: 100%;
 }
@@ -73,7 +76,7 @@ header {
 .leftbody{
 display: flex;
 flex-direction: column;
-
+width: 49%;
 }
 .intership{
   border-bottom: 2px solid black;
@@ -145,60 +148,3 @@ a{
   border-bottom: 2px solid black;
 }
 
-/* Add responsive styles here */
-@media (max-width: 768px) {
-  /* Styles for tablets */
-  .header-left,
-  .header-right {
-    max-width: 100%;
-  }
-
-  .contact-info p {
-    font-size: 12px;
-  }
-.contact-info p img{
-  width: 15px;
-  height: 15px;
-}
-  .name {
-    font-size: 24px;
-  }
-.logo-links a img{
-width: 20px;
-height: 20px;
-}
-.logo-links a{
-  font-size: 12px;
-}
-.header-left h1{
-  font-size: 30px;
-}
-.container{
-  font-size: 13px;
-}
-.bolder{
-  font-size: 20px;
-}
-.bold{
-  font-size: 16px;
-}
-  /* Add more responsive styles as needed */
-}
-
-@media (max-width: 480px) {
-  /* Styles for phones */
-  .header-left,
-  .header-right {
-    max-width: 100%;
-  }
-
-  .contact-info p {
-    font-size: 12px;
-  }
-
-  .name {
-    font-size: 20px;
-  }
-
-  /* Add more responsive styles as needed */
-}
