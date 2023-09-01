@@ -83,7 +83,7 @@ solutions for complex programming challenges.</li><li>Successfully completed mul
 accessing data from local storage</p>
 <p>Tech Stack :- HTML,CSS, Javascript,RestApi</p>
 <p>Role: Software Developer</p>
-<a href="https://arjunsinghbazal.github.io/meshop/" target="_blank" rel="noopener noreferrer">Go to My Website</a>
+<a href="https://arjunsinghbazal.github.io/meshop/" target="_blank" rel="noopener noreferrer">See more...</a>
             </div>
             <div className="section">
                 <p className="bold">
@@ -94,7 +94,7 @@ accessing data from local storage. Fetching the API and get data from there afte
                 details in webpage and add to cart</p>
 <p>Tech Stack :- RestApi,JSX,Reactjs</p>
 <p>Role: Software Developer</p>
-<a href="https://dry-fry-kq3m-arjunsinghbazal.vercel.app/" target="_blank" rel="noopener noreferrer">Go to Website</a>
+<a href="https://dry-fry-kq3m-arjunsinghbazal.vercel.app/" target="_blank" rel="noopener noreferrer">See more...</a>
             </div>
             <div className="section">
                 <p className="bold">
@@ -103,7 +103,7 @@ accessing data from local storage. Fetching the API and get data from there afte
                 <p>Eyewear Ecommerce website where we can select best Eyewear and order that from store</p>
 <p>Tech Stack :- JSX,Reactjs</p>
 <p>Role: Web Developer</p>
-<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Go to Website</a>
+<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">See more...</a>
             </div>
         </div>
         <div className="skill box">
