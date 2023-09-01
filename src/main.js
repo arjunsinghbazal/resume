@@ -118,12 +118,14 @@ accessing data from local storage. Fetching the API and get data from there afte
     Extra Curricular Activities
     </div>
     <div>
-<ul>
+<ul><li>Solved 500+ Java & JavaScript questions across
+various platforms.
+</li>
     <li>Participated in IIT Bombay X workshop and got a C programming completion certificate.
 </li>
 <li>Participated in IIT Roorkee workshop.
 </li>
-<li>Participated in intercollege Football Tournament.</li>
+<li>Participated in intercollege Cricket Tournament</li>
 <li>Participated in the cultural fest "parshantam" in college campus.
 </li>
 </ul>
