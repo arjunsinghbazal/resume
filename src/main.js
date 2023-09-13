@@ -76,6 +76,16 @@ solutions for complex programming challenges.</li><li>Successfully completed mul
             <p className="bolder">Projects</p>
             <div className="section">
                 <p className="bold">
+                    Roshnee Eyewear Store
+                </p>
+                <p>Eyewear Ecommerce website where we can select best Eyewear and order that from store</p>
+<p>Tech Stack :- JSX,Reactjs</p>
+<p>Role: Web Developer</p>
+<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">See more...</a>
+            </div>
+            <div className="section">
+            
+                <p className="bold">
                     Meshop. Shopping
                 </p>
                 <p>Fetching the API and get data from there after that user can search ,and see the item
@@ -95,15 +105,6 @@ accessing data from local storage. Fetching the API and get data from there afte
 <p>Tech Stack :- RestApi,JSX,Reactjs</p>
 <p>Role: Software Developer</p>
 <a href="https://dry-fry-kq3m-arjunsinghbazal.vercel.app/" target="_blank" rel="noopener noreferrer">See more...</a>
-            </div>
-            <div className="section">
-                <p className="bold">
-                    Roshnee Eyewear Store
-                </p>
-                <p>Eyewear Ecommerce website where we can select best Eyewear and order that from store</p>
-<p>Tech Stack :- JSX,Reactjs</p>
-<p>Role: Web Developer</p>
-<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">See more...</a>
             </div>
         </div>
         <div className="skill box">
