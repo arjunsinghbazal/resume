@@ -183,7 +183,7 @@ height: 20px;
   font-size: 20px;
 }
 .bold{
-  font-size: 16px;
+  font-size: 13px;
 }
   /* Add more responsive styles as needed */
 }
@@ -214,5 +214,5 @@ height: 20px;
 }
 
 .skills p{
-  width: 23%;
+  width: 24%;
 }
