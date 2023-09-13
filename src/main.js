@@ -109,8 +109,8 @@ accessing data from local storage. Fetching the API and get data from there afte
         </div>
         <div className="skill box">
         <p className="bolder ">Skills</p>
-        <div><p className=" bold pad">HTML</p><p className=" bold pad">CSS</p><p className=" bold pad">Javascript</p><p className=" bold pad">
-        Reactjs</p><p className=" bold pad">Java</p><p className=" bold pad">Git/GitHub</p></div>
+        <div className="skills"><p className=" bold pad">HTML</p><p className=" bold pad">CSS</p><p className=" bold pad">Javascript</p><p className=" bold pad">
+        Reactjs</p><p className=" bold pad">Java</p><p className=" bold pad">Git</p><p className=" bold pad">GitHub</p><p className="bold">WebScraping</p></div>
         </div>
     </div>
 </div>

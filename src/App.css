@@ -205,3 +205,14 @@ height: 20px;
 
   /* Add more responsive styles as needed */
 }
+
+
+.skills{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+}
+
+.skills p{
+  width: 23%;
+}
