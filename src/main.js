@@ -45,7 +45,7 @@ solutions for complex programming challenges.</li><li>Successfully completed mul
         <div className="education box">
 <p className="bolder">Eductaion</p>
 <div className="section">
-<p className="bold">B.TECH in Computer Science Engineering
+<p className="bold">B.TECH in Computer Science Engineering - 6.9 CGPA 
 </p>
 <p>Pacific Institute of Technology • Udaipur, Rajasthan
 </p>
@@ -53,7 +53,7 @@ solutions for complex programming challenges.</li><li>Successfully completed mul
 <p>Successfully completed a rigorous 4-year program in CSE from Pacific Institute of Technology.</p>
 </div>
 <div className="section">
-<p className="bold">12th
+<p className="bold">12th - 66%
 </p>
 <p>Govt. Higher Secondary School Panthal, Katra , J&K
 </p>
@@ -61,7 +61,7 @@ solutions for complex programming challenges.</li><li>Successfully completed mul
 <p>Completed 12th in Non-Medical Science</p>
 </div>
 <div className="section">
-<p className="bold">10th
+<p className="bold">10th - 70%
 </p>
 <p>Shining Star High School Katra , J&K
 </p>
