@@ -33,9 +33,9 @@ const Main = () => {
     <div className="leftbody">
     <div className="skill box">
         <p className="bolder ">Skills</p>
-        <div className="skills"><p className=" bold pad">HTML</p><p className=" bold pad">Bootstrap</p><p className=" bold pad">Bootstrap</p>
-        <p className=" bold pad">Javascript</p><p className=" bold pad">
-        Reactjs</p><p className=" bold pad">MUI</p><p className=" bold pad">Java</p><p className=" bold pad">Git</p><p className=" bold pad">Github</p>
+        <div className="skills"><p className=" bold pad">ReactJS</p><p className=" bold pad">HTML</p><p className=" bold pad">CSS</p>
+        <p className=" bold pad">JavaScript</p><p className=" bold pad">
+        Java</p><p className=" bold pad">MUI</p><p className=" bold pad">BootStrap</p><p className=" bold pad">Git</p><p className=" bold pad">Github</p>
         <p className="bold pad">WebScrapping</p>
         </div>
         </div>
