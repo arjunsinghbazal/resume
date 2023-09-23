@@ -232,3 +232,6 @@ padding-bottom: 1rem;
 .skills p{
   padding:0 0.5rem;
 }
+strong{
+  font-weight: 500;
+}
