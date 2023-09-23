@@ -23,7 +23,7 @@ const Main = () => {
         </div>
         <div className="header-right">
           <div className="contact-info">
-            <p><img src={email} alt="Email" className="logo"/> arjunsinghbazal@email.com</p>
+            <p><img src={email} alt="Email" className="logo"/> arjunsinghbazal@gmail.com</p>
             <p><img src={phone} alt="Phone" className="logo"/> +917006973703</p>
             <p><img src={location} alt="Location" className="logo"/> Katra, Jammu and Kashmir</p>
           </div>
@@ -31,6 +31,14 @@ const Main = () => {
       </header>
 <div className="body">
     <div className="leftbody">
+    <div className="skill box">
+        <p className="bolder ">Skills</p>
+        <div className="skills"><p className=" bold pad">HTML</p><p className=" bold pad">Bootstrap</p><p className=" bold pad">Bootstrap</p>
+        <p className=" bold pad">Javascript</p><p className=" bold pad">
+        Reactjs</p><p className=" bold pad">MUI</p><p className=" bold pad">Java</p><p className=" bold pad">Git</p><p className=" bold pad">Github</p>
+        <p className="bold pad">WebScrapping</p>
+        </div>
+        </div>
         <div className="intership box">
             <p className="bolder">Internships</p>
             <div><p className="bold">Frontend Developer</p>
@@ -44,46 +52,59 @@ solutions for complex programming challenges.</li><li>Successfully completed mul
         </div>
         <div className="education box">
 <p className="bolder">Eductaion</p>
-<div className="section">
-<p className="bold">B.TECH in Computer Science Engineering - 6.9 CGPA 
+<div className="section edu_margin">
+<p className="bold">B.TECH in Computer Science Engineering  
 </p>
 <p>Pacific Institute of Technology • Udaipur, Rajasthan
 </p>
-<p>11/2020</p>
+<p className="blue">11/2020 (6.9 CGPA)</p>
 <p>Successfully completed a rigorous 4-year program in CSE from Pacific Institute of Technology.</p>
 </div>
-<div className="section">
-<p className="bold">12th - 66%
+<div className="section edu_margin">
+<p className="bold">12th 
 </p>
 <p>Govt. Higher Secondary School Panthal, Katra , J&K
 </p>
-<p>2016</p>
+<p className="blue">06/2016 (66%)</p>
 <p>Completed 12th in Non-Medical Science</p>
 </div>
-<div className="section">
-<p className="bold">10th - 70%
+<div className="section edu_margin">
+<p className="bold">10th 
 </p>
 <p>Shining Star High School Katra , J&K
 </p>
-<p>06/2014</p>
+<p className="blue">06/2014 (70%)</p>
 
 </div>
 
         </div>
+       
     </div>
     <div className="rigthbody">
         <div className="project box">
             <p className="bolder">Projects</p>
-            <div className="section">
+        <ul>   <li className="section">
+                <p className="bold">
+                    CryptoTracker
+                </p>
+                <p>CryptoTracker is the tracker you always needed.Compare different crypto currencies,look at their graphs prices.Search from the top 100 Crypto currencies in real time and add then to your watchlist aswell</p>
+<p><strong>Technologies Used :-</strong> React JS, Material ui,
+ Chart Js, Axios, React Router, Coingecko API, Framer motion , Toastify</p>
+<p><strong>Role :-</strong> Reactjs Developer</p><div className="links">
+<a href="https://crypto-steel.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
+<a href="https://github.com/arjunsinghbazal/crypto" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
+            </li>
+            <li className="section">
                 <p className="bold">
                     Roshnee Eyewear Store
                 </p>
                 <p>Eyewear Ecommerce website where we can select best Eyewear and order that from store</p>
-<p>Tech Stack :- JSX,Reactjs</p>
-<p>Role: Web Developer</p>
-<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">See more...</a>
-            </div>
-            <div className="section">
+<p><strong>Tech Stack :-</strong> JSX,Reactjs</p>
+<p><strong>Role :-</strong> Web Developer</p>
+<div className="links"><a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
+<a href="https://github.com/arjunsinghbazal/Roshnee" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
+            </li>
+            <li className="section">
             
                 <p className="bold">
                     Meshop. Shopping
@@ -91,26 +112,23 @@ solutions for complex programming challenges.</li><li>Successfully completed mul
                 <p>Fetching the API and get data from there after that user can search ,and see the item
                 details in webpage and add to cart and also use local storage for validation and
 accessing data from local storage</p>
-<p>Tech Stack :- HTML,CSS, Javascript,RestApi</p>
-<p>Role: Software Developer</p>
-<a href="https://arjunsinghbazal.github.io/meshop/" target="_blank" rel="noopener noreferrer">See more...</a>
-            </div>
-            <div className="section">
+<p><strong>Tech Stack :- </strong>HTML,CSS, Javascript,RestApi</p>
+<p><strong>Role: </strong>Software Developer</p><div className="links">
+<a href="https://arjunsinghbazal.github.io/meshop/" target="_blank" rel="noopener noreferrer">Project Link</a>
+<a href="https://github.com/arjunsinghbazal/meshop" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
+            </li>
+            <li className="section">
                 <p className="bold">
                     DryFry
                 </p>
                 <p>Use local storage for 
 accessing data from local storage. Fetching the API and get data from there after that user can search ,and see the item
                 details in webpage and add to cart</p>
-<p>Tech Stack :- RestApi,JSX,Reactjs</p>
-<p>Role: Software Developer</p>
-<a href="https://dry-fry-kq3m-arjunsinghbazal.vercel.app/" target="_blank" rel="noopener noreferrer">See more...</a>
-            </div>
-        </div>
-        <div className="skill box">
-        <p className="bolder ">Skills</p>
-        <div className="skills"><p className=" bold pad">HTML</p><p className=" bold pad">CSS</p><p className=" bold pad">Javascript</p><p className=" bold pad">
-        Reactjs</p><p className=" bold pad">Java</p><p className=" bold pad">Git</p><p className="bold">WebScrapping</p><p className=" bold pad">GitHub</p></div>
+<p><strong>Tech Stack :- </strong>RestApi,JSX,Reactjs</p>
+<p><strong>Role:- </strong>Software Developer</p><div className="links">
+<a href="https://dry-fry-kq3m-arjunsinghbazal.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
+<a href="https://github.com/arjunsinghbazal/DryFry" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
+            </li></ul>
         </div>
     </div>
 </div>

@@ -2,16 +2,20 @@
 
 .container {
   max-width: 100vw;
-  margin: 0 auto;
-  padding: 1rem;
+  background-color: rgb(241, 244, 246);
+ 
 }
-
+.container a{
+  outline: none;
+  color: rgb(84, 84, 193);text-decoration: none;
+  font-weight: 500;
+}
 header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 0;
+  padding: 1rem 1rem;
   border-bottom: 2px solid black;
 }
 .header-right{
@@ -31,7 +35,7 @@ header {
   width: 20px;
   height: 20px;
   margin-right: 10px;
-  vertical-align: middle;
+  vertical-align: middle;border-radius: 50%;
 }
 
 .logo-links {
@@ -91,15 +95,15 @@ width: 49%;
   padding: 0;
 }
 .bolder{
-  font-weight: 700;
-  font-size: 25px;
+  font-weight: 600;
+  font-size: 30px;
 }
 .bold{
-  font-weight: 600;
-  font-size: 18px;
+  font-weight: 500;
+  font-size: 20px;
 }
 .education{
-  border-bottom: 2px solid black;
+ 
   padding: 1rem 0;
   padding: 0;
   margin: 0;
@@ -110,11 +114,13 @@ width: 49%;
   margin: 0;
   padding: 0;
 }
+.education .edu_margin{
+  margin-top: 0.2rem !important;
+}
 .rigthbody{
   width: 49%;
 }
 .project{
-  border-bottom: 2px solid black;
   padding-bottom: 1rem
 }
 .project.box p,
@@ -127,18 +133,17 @@ width: 49%;
   margin-bottom: 0.5rem;
 }
 .skill{
-  padding: 1rem 0;
   border-bottom: 2px solid black;
 
 }
-.skill div{
-display: flex;
-flex-direction: row;
-justify-content: space-around;
-flex-wrap: wrap;
+.blue{
+  color: rgb(84, 84, 193);
+  font-style: italic;
 }
 .pad{
   margin: 0.2rem;
+  font-weight: 500;
+  font-size: 18px;
 }
 
 a{
@@ -146,6 +151,18 @@ a{
 }
 .footer{
   border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+.links{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 0.3rem;
+  margin-bottom: 0.8rem;
+}
+.links a{
+  width: 30%;
 }
 
 /* Add responsive styles here */
@@ -210,9 +227,10 @@ height: 20px;
 .skills{
  display: flex;
  flex-direction: row;
- justify-content: space-around;
+flex-wrap: wrap;
+padding-bottom: 1rem;
 }
 
 .skills p{
-  width: 24%;
+  padding:0 1rem;
 }
