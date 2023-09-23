@@ -1,5 +1,7 @@
 /* Main.css */
-
+*{
+  background-color: rgb(241, 244, 246);
+}
 .container {
   max-width: 100vw;
   background-color: rgb(241, 244, 246);
