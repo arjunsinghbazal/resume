@@ -36,7 +36,7 @@ const Main = () => {
         <div className="skills"><p className=" bold pad">ReactJS</p><p className=" bold pad">HTML</p><p className=" bold pad">CSS</p>
         <p className=" bold pad">JavaScript</p><p className=" bold pad">
         Java</p><p className=" bold pad">MUI</p><p className=" bold pad">BootStrap</p><p className=" bold pad">Git</p><p className=" bold pad">Github</p>
-        <p className="bold pad">WebScrapping</p>
+        <p className="bold pad">WebScrap.</p>
         </div>
         </div>
         <div className="intership box">
