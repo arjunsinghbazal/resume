@@ -147,13 +147,11 @@ a{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
- font-size:1rem ;
- font-weight: 400;
+
   margin-bottom: 0.3rem;
 }
 .links a{
   padding-left: 2rem;
-  
 }
 
 /* Add responsive styles here */

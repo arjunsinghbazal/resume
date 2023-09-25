@@ -77,8 +77,7 @@ const Main = () => {
 
 </div>
 
-        </div>
-        <div className="footer box">
+        </div>  <div className="footer box">
     <div className="bolder">
     Extra Curricular Activities
     </div>
@@ -111,9 +110,9 @@ various platforms.
                  your watchlist aswell</p>
 <p><strong>Technologies Used :-</strong> React JS, Material ui,
  Chart Js, Axios, React Router, Coingecko API, Framer motion , Toastify</p>
-<div className="links"><p><strong>Role:- </strong>React Developer</p>
-<a href="https://crypto-steel.vercel.app/" target="_blank" rel="noopener noreferrer">Project..</a>
-<a href="https://github.com/arjunsinghbazal/crypto" target="_blank" rel="noopener noreferrer">Repo..</a></div>
+<div className="links">
+<a href="https://crypto-steel.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
+<a href="https://github.com/arjunsinghbazal/crypto" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
             </li>
             <li className="section">
                 <p className="bold">
@@ -121,9 +120,9 @@ various platforms.
                 </p>
                 <p>Eyewear Ecommerce website where we can select best Eyewear and order that from store</p>
 <p><strong>Tech Stack :-</strong> JSX,Reactjs</p>
-<div className="links"><p><strong>Role:- </strong>React Developer</p>
-<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project..</a>
-<a href="https://github.com/arjunsinghbazal/Roshnee" target="_blank" rel="noopener noreferrer">Repo..</a></div>
+<div className="links">
+<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
+<a href="https://github.com/arjunsinghbazal/Roshnee" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
             </li>
             <li className="section">
                 <p className="bold">
@@ -131,9 +130,9 @@ various platforms.
                 </p>
                 <p>Indoor and Outdoor plants for Your place</p>
 <p><strong>Tech Stack :-</strong>Reactjs,Toastify</p>
-<div className="links"><p><strong>Role:- </strong>React Developer</p>
-<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project..</a>
-<a href="https://github.com/arjunsinghbazal/Roshnee" target="_blank" rel="noopener noreferrer">Repo..</a></div>
+<div className="links">
+<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
+<a href="https://github.com/arjunsinghbazal/Roshnee" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
             </li>
             <li className="section">
             
@@ -144,9 +143,9 @@ various platforms.
                 details in webpage and add to cart and also use local storage for validation and
 accessing data from local storage</p>
 <p><strong>Tech Stack :- </strong>HTML,CSS, Javascript,RestApi</p>
-<div className="links"><p><strong>Role:- </strong>Web Developer</p>
-<a href="https://arjunsinghbazal.github.io/meshop/" target="_blank" rel="noopener noreferrer">Project..</a>
-<a href="https://github.com/arjunsinghbazal/meshop" target="_blank" rel="noopener noreferrer">Repo..</a></div>
+<div className="links">
+<a href="https://arjunsinghbazal.github.io/meshop/" target="_blank" rel="noopener noreferrer">Project Link</a>
+<a href="https://github.com/arjunsinghbazal/meshop" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
             </li>
             <li className="section">
                 <p className="bold">
@@ -156,9 +155,9 @@ accessing data from local storage</p>
 accessing data from local storage. Fetching the API and get data from there after that user can search ,and see the item
                 details in webpage and add to cart</p>
 <p><strong>Tech Stack :- </strong>RestApi,JSX,Reactjs</p>
-<div className="links"><p><strong>Role:- </strong>React Developer</p>
-<a href="https://dry-fry-kq3m-arjunsinghbazal.vercel.app/" target="_blank" rel="noopener noreferrer">Project..</a>
-<a href="https://github.com/arjunsinghbazal/DryFry" target="_blank" rel="noopener noreferrer">Repo..</a></div>
+<div className="links">
+<a href="https://dry-fry-kq3m-arjunsinghbazal.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
+<a href="https://github.com/arjunsinghbazal/DryFry" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
             </li></ul>
         </div>
     </div>
