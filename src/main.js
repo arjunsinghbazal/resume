@@ -112,8 +112,8 @@ various platforms.
 <p><strong>Technologies Used :-</strong> React JS, Material ui,
  Chart Js, Axios, React Router, Coingecko API, Framer motion , Toastify</p>
 <div className="links"><p><strong>Role:- </strong>React Developer</p>
-<a href="https://crypto-steel.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
-<a href="https://github.com/arjunsinghbazal/crypto" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
+<a href="https://crypto-steel.vercel.app/" target="_blank" rel="noopener noreferrer">Project..</a>
+<a href="https://github.com/arjunsinghbazal/crypto" target="_blank" rel="noopener noreferrer">Repo..</a></div>
             </li>
             <li className="section">
                 <p className="bold">
@@ -122,8 +122,8 @@ various platforms.
                 <p>Eyewear Ecommerce website where we can select best Eyewear and order that from store</p>
 <p><strong>Tech Stack :-</strong> JSX,Reactjs</p>
 <div className="links"><p><strong>Role:- </strong>React Developer</p>
-<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
-<a href="https://github.com/arjunsinghbazal/Roshnee" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
+<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project..</a>
+<a href="https://github.com/arjunsinghbazal/Roshnee" target="_blank" rel="noopener noreferrer">Repo..</a></div>
             </li>
             <li className="section">
                 <p className="bold">
@@ -132,8 +132,8 @@ various platforms.
                 <p>Indoor and Outdoor plants for Your place</p>
 <p><strong>Tech Stack :-</strong>Reactjs,Toastify</p>
 <div className="links"><p><strong>Role:- </strong>React Developer</p>
-<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
-<a href="https://github.com/arjunsinghbazal/Roshnee" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
+<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project..</a>
+<a href="https://github.com/arjunsinghbazal/Roshnee" target="_blank" rel="noopener noreferrer">Repo..</a></div>
             </li>
             <li className="section">
             
@@ -145,8 +145,8 @@ various platforms.
 accessing data from local storage</p>
 <p><strong>Tech Stack :- </strong>HTML,CSS, Javascript,RestApi</p>
 <div className="links"><p><strong>Role:- </strong>Web Developer</p>
-<a href="https://arjunsinghbazal.github.io/meshop/" target="_blank" rel="noopener noreferrer">Project Link</a>
-<a href="https://github.com/arjunsinghbazal/meshop" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
+<a href="https://arjunsinghbazal.github.io/meshop/" target="_blank" rel="noopener noreferrer">Project..</a>
+<a href="https://github.com/arjunsinghbazal/meshop" target="_blank" rel="noopener noreferrer">Repo..</a></div>
             </li>
             <li className="section">
                 <p className="bold">
@@ -157,8 +157,8 @@ accessing data from local storage. Fetching the API and get data from there afte
                 details in webpage and add to cart</p>
 <p><strong>Tech Stack :- </strong>RestApi,JSX,Reactjs</p>
 <div className="links"><p><strong>Role:- </strong>React Developer</p>
-<a href="https://dry-fry-kq3m-arjunsinghbazal.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
-<a href="https://github.com/arjunsinghbazal/DryFry" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
+<a href="https://dry-fry-kq3m-arjunsinghbazal.vercel.app/" target="_blank" rel="noopener noreferrer">Project..</a>
+<a href="https://github.com/arjunsinghbazal/DryFry" target="_blank" rel="noopener noreferrer">Repo..</a></div>
             </li></ul>
         </div>
     </div>
