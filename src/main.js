@@ -109,7 +109,7 @@ various platforms.
                  in real time and add then to
                  your watchlist aswell</p>
 <p><strong>Technologies Used :-</strong> React JS, Material ui,
- Chart Js, Axios, React Router, Coingecko API, Framer motion , Toastify</p>
+ Chart Js, Axios, React Router, Coingecko API, Framer motion , Toastify</p><p><strong>Role:- </strong>React Developer</p>
 <div className="links">
 <a href="https://crypto-steel.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
 <a href="https://github.com/arjunsinghbazal/crypto" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
@@ -119,7 +119,7 @@ various platforms.
                     Roshnee Eyewear Store
                 </p>
                 <p>Eyewear Ecommerce website where we can select best Eyewear and order that from store</p>
-<p><strong>Tech Stack :-</strong> JSX,Reactjs</p>
+<p><strong>Tech Stack :-</strong> JSX,Reactjs</p><p><strong>Role:- </strong>React Developer</p>
 <div className="links">
 <a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
 <a href="https://github.com/arjunsinghbazal/Roshnee" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
@@ -129,7 +129,7 @@ various platforms.
                     Live Green
                 </p>
                 <p>Indoor and Outdoor plants for Your places</p>
-<p><strong>Tech Stack :-</strong>Reactjs,Toastify</p>
+<p><strong>Tech Stack :-</strong>Reactjs,Toastify</p><p><strong>Role:- </strong>React Developer</p>
 <div className="links">
 <a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
 <a href="https://github.com/arjunsinghbazal/Roshnee" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
@@ -142,7 +142,7 @@ various platforms.
                 <p>Fetching the API and get data from there after that user can search ,and see the item
                 details in webpage and add to cart and also use local storage for validation and
 accessing data from local storage</p>
-<p><strong>Tech Stack :- </strong>HTML,CSS, Javascript,RestApi</p>
+<p><strong>Tech Stack :- </strong>HTML,CSS, Javascript,RestApi</p><p><strong>Role:- </strong>Web Developer</p>
 <div className="links">
 <a href="https://arjunsinghbazal.github.io/meshop/" target="_blank" rel="noopener noreferrer">Project Link</a>
 <a href="https://github.com/arjunsinghbazal/meshop" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
@@ -154,7 +154,7 @@ accessing data from local storage</p>
                 <p>Use local storage for 
 accessing data from local storage. Fetching the API and get data from there after that user can search ,and see the item
                 details in webpage and add to cart</p>
-<p><strong>Tech Stack :- </strong>RestApi,JSX,Reactjs</p>
+<p><strong>Tech Stack :- </strong>RestApi,JSX,Reactjs</p><p><strong>Role:- </strong>React Developer</p>
 <div className="links">
 <a href="https://dry-fry-kq3m-arjunsinghbazal.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
 <a href="https://github.com/arjunsinghbazal/DryFry" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
