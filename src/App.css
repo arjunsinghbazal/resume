@@ -13,7 +13,6 @@ header {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 1rem;
   border-bottom: 2px solid black;
 }
 .header-right{
@@ -68,7 +67,7 @@ header {
 }
 
 .body{
-  padding: 1rem 0;
+  padding: 0 0;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -82,9 +81,7 @@ width: 49%;
 }
 .intership{
   border-bottom: 2px solid black;
-  padding-bottom: 1rem;
-  margin: 0;
-  padding: 0;
+  padding-bottom: 0.2rem;
 }
 .intership.box p,
 .intership.box  {
@@ -101,8 +98,6 @@ width: 49%;
   font-size: 20px;
 }
 .education{
- 
-  padding: 1rem 0;
   padding: 0;
   margin: 0;
 }
@@ -112,14 +107,12 @@ width: 49%;
   margin: 0;
   padding: 0;
 }
-.education .edu_margin{
-  margin-top: 0.1rem !important;
-}
+
 .rigthbody{
   width: 49%;
 }
 .project{
-  padding-bottom: 1rem
+  padding-bottom: 0rem;
 }
 .project.box p,
 .project.box  {
@@ -128,7 +121,7 @@ width: 49%;
   padding: 0;
 }
 .project .section{
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.2rem;
 }
 .skill{
   border-bottom: 2px solid black;
@@ -139,7 +132,7 @@ width: 49%;
   font-style: italic;
 }
 .pad{
-  margin: 0.2rem;
+  margin: 0.1rem;
   font-weight: 500;
   font-size: 18px;
 }
@@ -156,10 +149,11 @@ a{
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-  margin-top: 0.3rem;
-  margin-bottom: 0.8rem;
+ 
+  margin-bottom: 0.3rem;
 }
 .links a{
+  padding-left: 2rem;
   width: 30%;
 }
 
@@ -226,7 +220,7 @@ height: 20px;
  display: flex;
  flex-direction: row;
 flex-wrap: wrap;
-padding-bottom: 1rem;
+padding-bottom: 0.3rem;
 }
 
 .skills p{

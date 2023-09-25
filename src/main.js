@@ -1,6 +1,6 @@
 import React from "react";
-import githubLogo from "./images/download.jpeg"; // Replace with the actual path to your GitHub logo image
-import linkedinLogo from "./images/images.png"; // Replace with the actual path to your LinkedIn logo image
+import githubLogo from "./images/download.jpeg"; 
+import linkedinLogo from "./images/images.png"; 
 import phone from "./images/phone.png";
 import location from "./images/location.png";
 import email from "./images/email.png";
@@ -44,9 +44,9 @@ const Main = () => {
             <div><p className="bold">Frontend Developer</p>
             <p>Acciojobs, November 2022-2023</p>
             <ul>
-            <li>Completed Software Development internship with proficiency in React.js, and HTML,CSS and Javascript</li>
-<li>Demonstrated strong problem-solving skills and knowledge of data structures to design and implement efficient
-solutions for complex programming challenges.</li><li>Successfully completed multiple projects that required expertise in various technologies.</li>
+            <li>Completed Software Development internship with proficiency in React.js,
+             and HTML,CSS and Javascript</li>
+<li>Successfully completed multiple projects that required expertise in various technologies.</li>
 <li>Troubleshot issues quickly to deliver high-quality results.</li>
             </ul></div>
         </div>
@@ -87,10 +87,13 @@ solutions for complex programming challenges.</li><li>Successfully completed mul
                 <p className="bold">
                     CryptoTracker
                 </p>
-                <p>CryptoTracker is the tracker you always needed.Compare different crypto currencies,look at their graphs prices.Search from the top 100 Crypto currencies in real time and add then to your watchlist aswell</p>
+                <p>CryptoTracker is the tracker you always needed.Compare different crypto currencies,
+                look at their graphs prices.Search from the top 100 Crypto currencies
+                 in real time and add then to
+                 your watchlist aswell</p>
 <p><strong>Technologies Used :-</strong> React JS, Material ui,
  Chart Js, Axios, React Router, Coingecko API, Framer motion , Toastify</p>
-<p><strong>Role :-</strong> Reactjs Developer</p><div className="links">
+<div className="links"><p><strong>Role:- </strong>React Developer</p>
 <a href="https://crypto-steel.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
 <a href="https://github.com/arjunsinghbazal/crypto" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
             </li>
@@ -100,8 +103,18 @@ solutions for complex programming challenges.</li><li>Successfully completed mul
                 </p>
                 <p>Eyewear Ecommerce website where we can select best Eyewear and order that from store</p>
 <p><strong>Tech Stack :-</strong> JSX,Reactjs</p>
-<p><strong>Role :-</strong> Web Developer</p>
-<div className="links"><a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
+<div className="links"><p><strong>Role:- </strong>React Developer</p>
+<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
+<a href="https://github.com/arjunsinghbazal/Roshnee" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
+            </li>
+            <li className="section">
+                <p className="bold">
+                    Live Green
+                </p>
+                <p>Indoor and Outdoor plants for Your place</p>
+<p><strong>Tech Stack :-</strong>Reactjs,Toastify</p>
+<div className="links"><p><strong>Role:- </strong>React Developer</p>
+<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
 <a href="https://github.com/arjunsinghbazal/Roshnee" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
             </li>
             <li className="section">
@@ -113,7 +126,7 @@ solutions for complex programming challenges.</li><li>Successfully completed mul
                 details in webpage and add to cart and also use local storage for validation and
 accessing data from local storage</p>
 <p><strong>Tech Stack :- </strong>HTML,CSS, Javascript,RestApi</p>
-<p><strong>Role: </strong>Software Developer</p><div className="links">
+<div className="links"><p><strong>Role:- </strong>Web Developer</p>
 <a href="https://arjunsinghbazal.github.io/meshop/" target="_blank" rel="noopener noreferrer">Project Link</a>
 <a href="https://github.com/arjunsinghbazal/meshop" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
             </li>
@@ -125,7 +138,7 @@ accessing data from local storage</p>
 accessing data from local storage. Fetching the API and get data from there after that user can search ,and see the item
                 details in webpage and add to cart</p>
 <p><strong>Tech Stack :- </strong>RestApi,JSX,Reactjs</p>
-<p><strong>Role:- </strong>Software Developer</p><div className="links">
+<div className="links"><p><strong>Role:- </strong>React Developer</p>
 <a href="https://dry-fry-kq3m-arjunsinghbazal.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
 <a href="https://github.com/arjunsinghbazal/DryFry" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
             </li></ul>
@@ -149,9 +162,11 @@ various platforms.
 </li>
 </ul>
     </div>
-</div>
+</div>{/* <li>Demonstrated strong problem-solving skills and knowledge of data structures to design and implement efficient
+solutions for complex programming challenges.</li> */}
     </div>
   );
+  
 };
 
 export default Main;
