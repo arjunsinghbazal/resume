@@ -131,8 +131,8 @@ various platforms.
                 <p>Indoor and Outdoor plants for Your places</p>
 <p><strong>Tech Stack :-</strong>Reactjs,Toastify</p><p><strong>Role:- </strong>React Developer</p>
 <div className="links">
-<a href="https://roshnee.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
-<a href="https://github.com/arjunsinghbazal/Roshnee" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
+<a href="https://livegreen.vercel.app/" target="_blank" rel="noopener noreferrer">Project Link</a>
+<a href="https://github.com/arjunsinghbazal/L_Green" target="_blank" rel="noopener noreferrer">Repo Link</a></div>
             </li>
             <li className="section">
             
