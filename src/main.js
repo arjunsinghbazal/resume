@@ -25,7 +25,7 @@ const Main = () => {
           <div className="contact-info">
             <p><img src={email} alt="Email" className="logo"/> arjunsinghbazal@gmail.com</p>
             <p><img src={phone} alt="Phone" className="logo"/> +917006973703</p>
-            <p><img src={location} alt="Location" className="logo"/> Katra, Jammu and Kashmir</p>
+            <p><img src={location} alt="Location" className="logo"/> Katra, Jammu and Kashmir, India</p>
           </div>
         </div>
       </header>
