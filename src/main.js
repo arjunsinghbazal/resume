@@ -162,24 +162,8 @@ accessing data from local storage. Fetching the API and get data from there afte
         </div>
     </div>
 </div>
-<div className="footer box">
-    <div className="bolder">
-    Extra Curricular Activities
-    </div>
-    <div>
-<ul><li>Solved 500+ Java & JavaScript questions across
-various platforms.
-</li>
-    <li>Participated in IIT Bombay X workshop and got a C programming completion certificate.
-</li>
-<li>Participated in IIT Roorkee workshop.
-</li>
-<li>Participated in intercollege Cricket Tournament</li>
-<li>Participated in the cultural fest "parshantam" in college campus.
-</li>
-</ul>
-    </div>
-</div>{/* <li>Demonstrated strong problem-solving skills and knowledge of data structures to design and implement efficient
+
+{/* <li>Demonstrated strong problem-solving skills and knowledge of data structures to design and implement efficient
 solutions for complex programming challenges.</li> */}
     </div>
   );
