@@ -108,7 +108,6 @@ width: 49%;
   margin: 0;
   padding: 0;
 }
-
 .rigthbody{
   width: 49%;
 }
@@ -126,7 +125,6 @@ width: 49%;
 }
 .skill{
   border-bottom: 2px solid black;
-
 }
 .blue{
   color: rgb(84, 84, 193);
@@ -137,7 +135,6 @@ width: 49%;
   font-weight: 500;
   font-size: 18px;
 }
-
 a{
   color: gray;
 }
@@ -149,17 +146,19 @@ a{
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
- 
   margin-bottom: 0.3rem;
 }
 .links a{
   padding-left: 2rem;
- 
+}
+.links a:hover{
+  color: gray;
 }
 
-/* Add responsive styles here */
+
+
 @media (max-width: 768px) {
-  /* Styles for tablets */
+ 
   .header-left,
   .header-right {
     max-width: 100%;
@@ -194,7 +193,7 @@ height: 20px;
 .bold{
   font-size: 13px;
 }
-  /* Add more responsive styles as needed */
+ 
 }
 
 @media (max-width: 480px) {
